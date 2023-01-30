@@ -2,8 +2,20 @@
   learn javascript
   https://www.w3schools.com/js/default.asp
 
+  console
+  https://www.w3schools.com/jsref/obj_console.asp
+
+  variable
+  https://www.w3schools.com/js/js_variables.asp
+
+  assign
+  https://www.w3schools.com/js/js_assignment.asp
+
   js array 
   https://www.w3schools.com/js/js_arrays.asp
+
+  js length
+  https://www.w3schools.com/jsref/jsref_length_string.asp
 
   operator
   https://www.w3schools.com/js/js_operators.asp
@@ -11,6 +23,9 @@
 
   arithematic
   https://www.w3schools.com/js/js_arithmetic.asp
+
+  loop
+  https://www.w3schools.com/js/js_loop_while.asp
 
   math
   https://www.w3schools.com/js/js_math.asp
